@@ -54,8 +54,8 @@ export default function History() {
                         <div class="container-fluid ">
                             <div class="row ">
                                    <div class="col-lg-12 col-md-12  mt-2 mb-6 mt-lg-0">
-                                   <span><div class="card  mb-4 mt-3" style={{marginLeft: "28cm", width: "18rem"}}>
-                                    <img src={require("../assest1/images/machine.jpg")} class="card-img-top image-fluid" alt="..."/>
+                                   <span><div class="card ms-5  mb-4 mt-3" style={{ marginLeft: "28cm", width: "18rem"}}>
+                                    <img src={require("../assest1/images/machine.jpg")} class="card-img-top  justi image-fluid"  alt="..."/>
                     
                                       </div></span>
                                        

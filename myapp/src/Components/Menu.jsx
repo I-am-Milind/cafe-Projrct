@@ -25,7 +25,7 @@ export default function Menu() {
 
   return (
    <>
-    <div class="container-fluid mt-0" style={{backgroundColor: "#b15a2e"}} id="hlo1">
+    <div class="container-fluid mt-0" style={{backgroundColor: "#D99151"}} id="hlo1">
         <div class="container">
             <div class="row">
                 <h1 class="text-center mt-4 mb-3" style={{borderStyle:  "dotted", borderRadius: "10px", fontFamily: 'Times New Roman'}}>
@@ -85,7 +85,7 @@ export default function Menu() {
             </div>
         </div>
     </div>
-    <div class="container-fluid mt-0" id="hlo1" style={{backgroundColor: "#b15a2e"}}>
+    <div class="container-fluid mt-0" id="hlo1" style={{backgroundColor: "#D99151"}}>
         <div class="container ">
             <div class="row">
                 <h1 class="text-center " style={{borderStyle:  "dotted", borderRadius: "10px", fontFamily: "sans-serif"}}> Mid-day Craving</h1>
